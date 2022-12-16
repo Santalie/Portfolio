@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "sass": "^1.56.2"
+  },
+  "name": "portfolioo",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "croata",
+  "license": "ISC",
+  "description": "portfolio vsb"
+}
